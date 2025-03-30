@@ -1,0 +1,20 @@
+index.md
+;me.md
+;Как я покинул школу.md
+;00 AI.md
+;00 CS.md
+;00 Content.md
+;00 Cringe.md
+;00 Finances.md
+;00 Health.md
+;00 Life.md
+;00 Mindset.md
+;00 OSINT.md
+;00 Politics.md
+;00 Productivity.md
+;00 School.md
+;00 Site.md
+;00 Sleep.md
+;00 Social.md
+;00 Sport.md
+;00 Utilities.md
